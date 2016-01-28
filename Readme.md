@@ -1,11 +1,11 @@
-Are you bored with suddenly deadly software?
+Are you tired of sudden death of software on Windows?
 ----
 [![https://gyazo.com/5a420d41a38fc92997926efe0409bd63](https://i.gyazo.com/5a420d41a38fc92997926efe0409bd63.png)](https://gyazo.com/5a420d41a38fc92997926efe0409bd63)
 
-Do this “xxx has stopped working” dialog or silently deadly software irritate you?
-Just dump your memory and send it to fxxkin developer!
+Do this “xxx has stopped working” dialog or silent death of software irritate you?
+Just dump memory of the software and send it to fxxkin developer!
 
-The memory dump is very useful for developers to detect the problem and fix it.
+A memory dump can be very useful for developers to detect the cause and may help them to fix it.
 
 This tool enables Local Memory Dump of Windows Error Reporter from Microsoft.
 
@@ -13,10 +13,10 @@ This tool enables Local Memory Dump of Windows Error Reporter from Microsoft.
 ### 1. Download this tool
 [![https://gyazo.com/033a123239e1a95a594b7f679d9154df](https://i.gyazo.com/033a123239e1a95a594b7f679d9154df.png)](https://gyazo.com/033a123239e1a95a594b7f679d9154df)
 
-You can download from this button of the page.
+You can download the tool from this button of the page.
 
 ### 2. Extract
-Right click the downloaded zip file and extract them.
+Right click the downloaded zip file and extract contents of it.
 
 ### 3. Enable Local Memory Dump
 [![https://gyazo.com/35f743c22614de19510f29ab85cdb66e](https://i.gyazo.com/35f743c22614de19510f29ab85cdb66e.png)](https://gyazo.com/35f743c22614de19510f29ab85cdb66e)
@@ -30,10 +30,8 @@ To enable Local Memory Dump function, you need to exec `enable.bat` as Administr
 
 Right click it and execute as Administrator.
 
-### 4. Show crush of the deadly software
-You can use your Windows normally, and crush your deadly software.
-
-Windows will automatically dump the memory of the crushed software.
+### 4. Let the software crash
+You can use the software as usual. If the software crash, Windows will automatically dump the memory of the crushed software.
 
 [![https://gyazo.com/5a420d41a38fc92997926efe0409bd63](https://i.gyazo.com/5a420d41a38fc92997926efe0409bd63.png)](https://gyazo.com/5a420d41a38fc92997926efe0409bd63)
 
